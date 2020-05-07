@@ -1,7 +1,7 @@
 # blowing text
 
 <div>
-<img src="project1day1css_0507.gif" width="100px">
+<img src="project1day1css_0507.gif" width="300px">
 </div>
 
 ## 알게 된 것들
